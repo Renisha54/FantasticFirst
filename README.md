@@ -1,2 +1,2 @@
 # FantasticFirst
-Reisteration,login and new one
+Registeration,login and new one
